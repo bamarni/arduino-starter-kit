@@ -1,9 +1,9 @@
-int switchState = 0;
-int SWITCH = 2;
-int GREEN_LED = 3;
-int RED_LED1 = 4;
-int RED_LED2 = 5;
-int DELAY_LENGTH = 250;
+const int switchState = 0;
+const int SWITCH = 2;
+const int GREEN_LED = 3;
+const int RED_LED1 = 4;
+const int RED_LED2 = 5;
+const int DELAY_LENGTH = 250;
 
 void setup() {
 	pinMode(SWITCH, INPUT);
