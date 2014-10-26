@@ -11,4 +11,6 @@ Projects from the Arduino Starter Kit: http://arduino.cc/en/Main/ArduinoStarterK
 	</li>
 	<li> 4: Color Mixing Lamp -- Using photoresistors and PWM to change the color and brightness of an LED
 	</li>
+	<li> 5: Mood Cue -- Using a potentiometer to control a servo.
+	</li>
 </ul>
