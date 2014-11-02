@@ -15,4 +15,8 @@ Projects from the Arduino Starter Kit: http://arduino.cc/en/Main/ArduinoStarterK
 	</li>
 	<li> 6: Light Theremin -- Sensor calibration, controlling sound through light.
 	</li>
+	<li> 7: Keyboard Instrument -- Using pushbuttons with a resistor ladder to control tone output.
+	</li>
+	<li> 8: Digital Hourglass -- Using the millis() function to keep track of time, tilt sensor to reset.
+	</li>
 </ul>
