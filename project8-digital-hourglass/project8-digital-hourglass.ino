@@ -1,4 +1,4 @@
-const int MIN_TO_COUNT_UP_TO = 60;
+const long MIN_TO_COUNT_UP_TO = 60;
 const int TILT_SWITCH_PIN = 8;
 const long INTERVAL = MIN_TO_COUNT_UP_TO * 10000; 
 const int LOW_LED = 2;
