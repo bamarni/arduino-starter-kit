@@ -19,4 +19,6 @@ Projects from the Arduino Starter Kit: http://arduino.cc/en/Main/ArduinoStarterK
 	</li>
 	<li> 8: Digital Hourglass -- Using the millis() function to keep track of time, tilt sensor to reset.
 	</li>
+	<li> 9: Motorized Pinwheel -- Motors, transistors.
+	</li>
 </ul>
