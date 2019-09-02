@@ -1,4 +1,5 @@
-const int switchState = 0;
+int switchState = 0;
+
 const int SWITCH = 2;
 const int GREEN_LED = 3;
 const int RED_LED1 = 4;
